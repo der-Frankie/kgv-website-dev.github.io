@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Über unseren Kleingartenverein
+title: Verein
 permalink: /verein/
 ---
+
+Über unseren Kleingartenverein
 
 Plan des Vereins
 [...]

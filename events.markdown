@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vereinsaktivitäten 2023
+title: Events
 permalink: /events/
 ---
 
