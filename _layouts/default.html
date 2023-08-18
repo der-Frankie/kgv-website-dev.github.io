@@ -29,10 +29,11 @@
 
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
+              <a href="{{ site.baseurl }}/verein">Verein</a>
+              <a href="{{ site.baseurl }}/events">Events</a>
+              <a href="{{ site.baseurl }}/freie-gaerten">Freie Gärten</a>
+              <a href="{{ site.baseurl }}/kontakt">Kontakt</a>
+              <a href="{{ site.baseurl }}/search">Suche</a>
             </nav>
           </header>
         </div>
@@ -44,15 +45,19 @@
         </div>
       </div>
 
+      
+
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
             {% include svg-icons.html %}
+            <div>
+              <a text-align: right; href="{{ site.baseurl }}/impressum">Impressum</a>
+            </div>
           </footer>
         </div>
       </div>
     </div>
 
-    {% include analytics.html %}
   </body>
 </html>
