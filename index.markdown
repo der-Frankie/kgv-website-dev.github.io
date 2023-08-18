@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Wir bergrüßen alle Besucher unserer Homepage!
