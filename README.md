@@ -1,3 +1,13 @@
+# website-poc
+
+This project site is only intended as a proof of concept on using github pages for hosting static website content - included the feature of jekyll as a generator.
+
+---
+
+## read.me on Reverie theme following
+
+---
+
 <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
