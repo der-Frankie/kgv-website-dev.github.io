@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Termine
+permalink: /termine/
 ---
 
-Vereinsaktivitäten 2023
+Termine & Aktivitäten 2023
 
 [...]
