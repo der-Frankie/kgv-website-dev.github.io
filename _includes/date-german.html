@@ -1,0 +1,12 @@
+{% assign formattedDate = '' %}
+
+{% if include.showDay %}
+    {% assign formattedDate = include.date | date: '%-d' | append: '. '%}
+{% endif %}
+
+{% assign monthNames = 'Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember' %}
+{% assign monthNames = monthNames | split: ',' %}
+{% assign month = include.date | date: '%-m' | minus: 1 %}
+
+{% assign formattedDate = formattedDate | append: monthNames[month] %}
+{% assign formattedDate = include.date | date: '%Y' | prepend: ' ' | prepend: formattedDate %}
