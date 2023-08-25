@@ -7,9 +7,8 @@ layout: default
 
   <div>
     <p class="author_title"></p>
-      {% assign m = page.date | date: "%-m" %}
       {{ page.date | date: "%-d." }}
-      {% case m %}
+      {% assign m = page.date | date: "%-m" }{% case m %}
         {% when '1' %}Januar
         {% when '2' %}Februar
         {% when '3' %}März
