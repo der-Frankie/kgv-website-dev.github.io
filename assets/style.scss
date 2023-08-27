@@ -246,7 +246,10 @@ p > img {
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
+.clearfix:before {
+    height: 25px;
+}
+
 .clearfix:after {
     content: " ";
     display: table;
@@ -406,11 +409,13 @@ nav {
 }
 
 .wrapper-container {
+  background-color: linear-gradient(to right,#438119,rgb(96, 160, 40));
   min-height: 100%;
   position: relative;
 }
 
 .wrapper-main {
+  background-image: url("{{ site.baseurl }}/images/header_content_trenner.png);
   padding-bottom: 134px;
 }
 
