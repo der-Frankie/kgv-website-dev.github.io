@@ -181,7 +181,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkerGray;
+    background: $lightGray;
   }
 }
 
@@ -270,6 +271,8 @@ p > img {
 .wrapper-masthead {
   margin-bottom: 50px;
   background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
+  background-repeat: no-repeat;
+  background-size:100%;
   margin-bottom: 25px;
 }
 
