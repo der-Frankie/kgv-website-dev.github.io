@@ -415,8 +415,10 @@ nav {
 }
 
 .wrapper-main {
+  padding-top: 120px;
   background-image: url("{{ site.baseurl }}/images/content_hintergrund.png");
   background-repeat: repeat;
+  background-size:100%;
   padding-bottom: 134px;
 }
 
