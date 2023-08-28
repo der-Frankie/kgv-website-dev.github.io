@@ -313,7 +313,7 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: bold;
@@ -415,6 +415,8 @@ nav {
 }
 
 .wrapper-main {
+  background-image: url("{{ site.baseurl }}/images/content_hintergrund.png");
+  background-repeat: repeat;
   padding-bottom: 134px;
 }
 
