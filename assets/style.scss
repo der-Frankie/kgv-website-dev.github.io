@@ -181,8 +181,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkerGray;
-    backdrop-filter: opacity(50%);
+    color: $black;
+    backdrop-filter: brightness(100%);
     border-radius: 4px;
     box-sizing: border-box;
   }
