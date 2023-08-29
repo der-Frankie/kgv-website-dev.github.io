@@ -354,12 +354,13 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 5px;
     color: $darkGray;
     text-align: right;
     font-weight: 500;
     letter-spacing: 1px;
-    padding: 15px 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     display: inline-block;
     border: 2px solid rgb(255, 251, 226);
     border-radius: 3px;
