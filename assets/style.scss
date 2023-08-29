@@ -177,17 +177,16 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: $black;
   font-weight: bold;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $black;
     background: rgb(96, 160, 40);
-    backdrop-filter: opacity(90%);
+    backdrop-filter: sepia(90%);
     border-radius: 4px;
     box-sizing: border-box;
-    padding: 2px;
   }
 }
 
@@ -275,8 +274,8 @@ p > img {
 
 .wrapper-masthead {
   height: 200px;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
   background-repeat: no-repeat;
   background-size: 100%;
