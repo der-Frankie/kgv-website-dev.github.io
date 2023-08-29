@@ -178,10 +178,12 @@ span[data-pullquote]:before {
 
 a {
   color: $blue;
+  font-weight: bold;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $black;
+    color: $darkGray;
+    background: lightgray;
     backdrop-filter: brightness(100%);
     border-radius: 4px;
     box-sizing: border-box;
@@ -271,6 +273,7 @@ p > img {
 //
 
 .wrapper-masthead {
+  height: 160px;
   margin-bottom: 25px;
   background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
   background-repeat: no-repeat;
