@@ -183,8 +183,8 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $darkGray;
-    background: lightgray;
-    backdrop-filter: brightness(100%);
+    background: rgb(96, 160, 40);
+    backdrop-filter: opacity(10%);
     border-radius: 4px;
     box-sizing: border-box;
   }
