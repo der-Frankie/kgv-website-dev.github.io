@@ -270,7 +270,7 @@ p > img {
 .wrapper-masthead {
   height: 200px;
   padding-top: 50px;
-  padding-bottom: 25px;
+  padding-bottom: 5px;
   background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -345,7 +345,6 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  font-weight: bold;
 
   @include mobile {
     float: none;
@@ -358,7 +357,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 600;
     letter-spacing: 1px;
 
     &:hover, &:active {
