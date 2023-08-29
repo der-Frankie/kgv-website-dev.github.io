@@ -182,11 +182,12 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGray;
+    color: $blue;
     background: rgb(96, 160, 40);
-    backdrop-filter: opacity(10%);
+    backdrop-filter: opacity(90%);
     border-radius: 4px;
     box-sizing: border-box;
+    padding: 2px;
   }
 }
 
@@ -423,7 +424,7 @@ nav {
 }
 
 .wrapper-main {
-  padding-top: 120px;
+  padding-top: 25px;
   background-image: url("{{ site.baseurl }}/images/content_hintergrund.png");
   background-repeat: repeat;
   background-size:100%;
