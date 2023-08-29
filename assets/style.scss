@@ -274,7 +274,8 @@ p > img {
 //
 
 .wrapper-masthead {
-  height: 160px;
+  height: 200px;
+  margin-top: 25px;
   margin-bottom: 25px;
   background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
   background-repeat: no-repeat;
