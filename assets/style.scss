@@ -183,7 +183,8 @@ a {
   &:hover, &:active {
     color: $darkerGray;
     backdrop-filter: opacity(50%);
-    border-radius: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
   }
 }
 
@@ -270,12 +271,10 @@ p > img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
-  background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
-  backdrop-filter: opacity(50%);;
-  background-repeat: no-repeat;
-  background-size:100%;
   margin-bottom: 25px;
+  background-image: url("{{ site.baseurl }}/images/header_hintergrund.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .masthead {
