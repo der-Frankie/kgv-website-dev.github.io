@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Termine
+title: Termine & Aktivitäten 2023
 permalink: /termine/
 ---
-
-# Termine & Aktivitäten 2023
 
 Die Termine unseres Vereins für das Jahr 2023.
 
 ## Dezember 2023
 
-03.12.23 Weihnachtskekse backen, (Einzelheiten folgen noch)
+03.12.23 Weihnachtskekse backen (Einzelheiten folgen noch)
 
 17.12.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
 
