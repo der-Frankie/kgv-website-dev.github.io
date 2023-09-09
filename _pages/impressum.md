@@ -24,13 +24,10 @@ info@kgv-waldfrieden-hannover.de
 Der geschäftsführende Vorstand des Vereins, vertreten durch den 1. Vorsitzenden M.Gonschorowski, ist für den Inhalt des Webauftritts verantwortlich. Im Auftrag des Vorstandes des Vereins wird diese Homepage vom 1. Schriftführer des Vereins: Klaus Bergemann gepflegt und aktualisiert.
 
  
-
- 
 # Urheberrechtshinweise
 
 Die Inhalte dieser Website sind durch uns urheberrechtlich geschützt. Alle Rechte daran behalten wir uns vor.
 
- 
 
 # Hinweise zu externen Links
 
