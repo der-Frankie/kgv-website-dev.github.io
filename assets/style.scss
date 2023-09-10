@@ -234,6 +234,16 @@ p > img {
   color: $gray;
 }
 
+sup, sub {
+  font-size: 80%;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
