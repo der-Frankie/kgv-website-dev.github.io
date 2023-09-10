@@ -10,7 +10,7 @@ Der Verein hat 112 Gärten. Das Vereinsgelände umfasst 52.493 m<sup>2</sup>, da
 
 Das Vereinsgelände befindet sich auf städtischem Grund. Es gilt daher auch die Gartenordnung der Landeshauptstadt Hannover. Der Verein ist Mitglied im Bezirksverband Hannover der Kleingärtner Hannover e.V.
 
-[--> Link zum Plan](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Plan_2002__Konvertiert_.pdf)
+[Link zum Plan](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Plan_2002__Konvertiert_.pdf)
 
 ## Lage des Vereins
 
@@ -22,7 +22,7 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 ## Vereinssatzung
 
-[--> Link zur Satzung](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Satzung001.pdf)
+[Link zur Satzung](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Satzung001.pdf)
 
 ## Der Vorstand und die Beisitzer
 
