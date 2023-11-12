@@ -6,8 +6,6 @@ permalink: /freie-gaerten/
 
 Hier sehen sie die Auflistung der freien Gärten unserer Kolonie. Für Details werfen sie gern einen Blick in das jeweilige Expose.
 
-{% include_relative %}
-
 * [Expose zu Garten-01]({% link /freie-gaerten/Test-Expose_01.pdf %})
 
 * [Expose zu Garten-02]({% link /freie-gaerten/Test-Expose_02.pdf %})
