@@ -78,8 +78,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages']
-#include: ['freie-gaerten']
+include:
+  - '_pages'
+  - 'freie-gaerten/*.pdf'
 
 paginate: 1
 paginate_path: /page:num/
