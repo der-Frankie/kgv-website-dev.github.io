@@ -4,7 +4,7 @@ title: Freie Gärten
 permalink: /freie-gaerten/
 ---
 
-{% include_relative /freie-gaerten/Test-Expose_01.pdf %}
+{% include_relative Test-Expose_01.pdf %}
 
 Hier sehen sie die Auflistung der freien Gärten unserer Kolonie. Für Details werfen sie gern einen Blick in das jeweilige Expose.
 
