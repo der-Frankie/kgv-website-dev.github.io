@@ -79,7 +79,6 @@ plugins:
   - jekyll-paginate
 
 include: ['_pages']
-#include: ['freie-gaerten']
 
 paginate: 1
 paginate_path: /page:num/
