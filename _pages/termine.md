@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Termine & Aktivitäten 202023
+title: Termine & Aktivitäten 2023
 permalink: /termine/
 ---
 
-Die Termine und Veranstaltungen unseres Vereins im Jahr 2023.
+Hier findet ihr im Überblick die Veranstaltungen unseres Vereins im Jahr 2023.
 
 ## Dezember 2023
 
