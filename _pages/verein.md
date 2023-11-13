@@ -10,7 +10,7 @@ Der Verein hat 112 Gärten. Das Vereinsgelände umfasst 52.493 m<sup>2</sup>, da
 
 Das Vereinsgelände befindet sich auf städtischem Grund. Es gilt daher auch die Gartenordnung der Landeshauptstadt Hannover. Der Verein ist Mitglied im Bezirksverband Hannover der Kleingärtner Hannover e.V.
 
-[Link zum Plan](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Plan_2002__Konvertiert_.pdf)
+[Link zum Plan]({{site.baseurl}}/dokumente/Plan_2002__Konvertiert_.pdf)
 
 ## Lage des Vereins
 
@@ -22,7 +22,7 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 ## Vereinssatzung
 
-[Link zur Satzung](https://www.kgv-waldfrieden-hannover.de/fileadmin/Dokumente/Satzung001.pdf)
+[Link zur Satzung]({{site.baseurl}}/dokumente/Satzung001.pdf)
 
 ## Der Vorstand und die Beisitzer
 
@@ -54,4 +54,18 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 034
 
 ## Geschichte des Vereins
 
+* [2016 - Neue Verrieselungsstrecke für die Abwasseranlage des Vereinshauses](https://www.kgv-waldfrieden-hannover.de/verein/abwasseranlage-2016/)
+
+* [1991 - Gartenzeitung]({{site.baseurl}}/dokumente/Gartenzeitung_1991.pdf)
+
+* [1989 - Gartenzeitung zum 25-jährigen Bestehen des Vereins]({{site.baseurl}}/dokumente/Gartenzeitung_zum_25_jaehrigen_Bestehen.pdf)
+
+* [1989 - Aufkleber zum 25-jährigen Bestehen des Vereins]({{site.baseurl}}/dokumente/Aufkleber_zu_25_jaehrigen_Bestehen.pdf)
+
 [--- dieser Bereich ist noch im Aufbau ---]
+
+## Dokumente
+
+* [Aufnahmeantrag Warteliste]({{site.baseurl}}/dokumente/2021_Aufnahme_Warteliste.doc)
+
+* [Vereinssatzung]({{site.baseurl}}/dokumente/Satzung001.pdf)
