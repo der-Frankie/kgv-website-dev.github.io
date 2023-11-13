@@ -78,9 +78,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include:
-  - '_pages'
-  - 'freie-gaerten/Test-Expose-01.pdf'
+include: ['_pages']
 
 paginate: 1
 paginate_path: /page:num/
