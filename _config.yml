@@ -80,7 +80,7 @@ plugins:
 
 include:
   - '_pages'
-  - 'freie-gaerten/Test-Expose_01.pdf'
+  - 'freie-gaerten/Test-Expose-01.pdf'
 
 paginate: 1
 paginate_path: /page:num/
