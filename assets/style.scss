@@ -419,7 +419,7 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-    background-color: #ddffb5;;
+    background-color: #ddffb5;
   }
 
   .comments {
@@ -528,6 +528,16 @@ body:after {
 .cd-container h1, .cd-container h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+}
+
+.supporting{
+  text-align: right;
+  margin: 1.8em .8em;
+  /*border-left: 2px solid $gray;*/
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 10px;
+  font-style: italic;
 }
 
 /* --------------------------------
