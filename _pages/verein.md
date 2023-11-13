@@ -62,8 +62,6 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 034
 
 * [1989 - Aufkleber zum 25-jährigen Bestehen des Vereins]({{site.baseurl}}/dokumente/Aufkleber_zu_25_jaehrigen_Bestehen.pdf)
 
-[--- dieser Bereich ist noch im Aufbau ---]
-
 ## Dokumente
 
 * [Aufnahmeantrag Warteliste]({{site.baseurl}}/dokumente/2021_Aufnahme_Warteliste.doc)
