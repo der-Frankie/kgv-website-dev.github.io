@@ -1,89 +1,100 @@
 ---
 layout: page
-title: Termine & Aktivitäten 2023
+title: Die wichtigsten Termine des laufen den Kalenderjahres
 permalink: /termine/
 ---
 
-Die Termine unseres Vereins für das Jahr 2023.
+... haben wir hier für Euch zusammen gestellt. Einige Termine sind erst Planungstermine. Daher sind bei den Veranstaltungen Änderungen möglich. Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstaltungen sind auch Einladungen vorhanden. Bitte diese beachten, bzw. beim Festauschuß erfragen.
 
-## Dezember 2023
-
-03.12.23 Weihnachtskekse backen (Einzelheiten folgen noch)
-
-17.12.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## November 2023
-
-05.11.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## Oktober 2023
-
-08.10.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-14.10.23 ab 9:00Uhr Gemeinschaftsarbeit mit Container und Schredder, Treffen am Vereinshaus
-
-29.10.23 Laterne basteln (Einzelheiten folgen noch)
-
-## September 2023
-
-09.09.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-10.09.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## August 2023
-
-12.08.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-13.08.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## Juli 2023
-
-01.07.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-02.07.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-08.07.23 Sommerfest (Einzelheiten folgen noch)
-
-22.07.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-## Juni 2023
-
-04.06.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-10.06.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-17.06.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-## Mai 2023
-
-06.05.23 ab 14:00Uhr Jahreshauptversammlung im Vereinshaus
-
-06.05.23 nach der JHV: Gesellschafterversammlung der SWG
-
-07.05.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-20.05.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-21.05.23 Spargelessen (Einzelheiten folgen noch)
-
-## April 2023
-
-08.04.22 Osterfest (Einzelheiten folgen noch)
-
-09.04.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-15.04.23 ab 9:00Uhr Gemeinschaftsarbeit mit Container, Treffen am Vereinshaus
-
-29.04.23 ab 9:00Uhr Gemeinschaftsarbeit, Treffen am Vereinshaus
-
-## März 2023
-
-12.03.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## Februar 2023
-
-12.02.23 ab 11:00Uhr Sprechstunde des Vorstandes im Vereinshaus
-
-## Januar 2023
+## Januar 2024
 
 *(keine Termine)*
+
+## Februar 2024
+
+11.02.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+## März 2024
+
+10.03.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+## April 2024
+
+07.04.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+13.04.2024 ab 9:00 Uhr: Gemeinschaftsarbeit (mit Container), Treffen am Vereinshaus
+
+21.04.2024 ab 14:00 Uhr: Gesellschafterversammlung der SWG 
+
+21.04.2024 (im Anschluss): Jahreshauptversammlung im Vereinshaus
+
+## Mai 2024
+
+05.05.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+18.05.2024 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+## Juni 2024
+
+02.06.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+08.06.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+15.06.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+## Juli 2024
+
+06.07.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+14.07.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+27.07.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+## August 2024
+
+02\. - 04.08.2024: Sommerfest (60 Jahre KGV Waldfrieden), Vereinshaus
+
+10.08.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+11.08.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+## September 2024
+
+07.09.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+08.09.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+## Oktober 2024
+
+06.10.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+12.10.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+
+## November 2024
+
+03.11.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+09.11.2024: Herbstfest im Vereinshaus (Einzelheiten folgen noch)
+
+## Dezember 2024
+
+01.12.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+
+---
+
+Rückblicke auf Termine vergangener Jahre:
+
+- 2023
+
+- 2022
+
+- 2021
+
+- 2020
+
+- 2019
+
+- 2018
+
+- 2017

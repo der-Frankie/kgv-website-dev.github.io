@@ -4,14 +4,12 @@ title: Freie Gärten
 permalink: /freie-gaerten/
 ---
 
-Hier sehen sie die Auflistung der freien Gärten unserer Kolonie. Für Details werfen sie gern einen Blick in das jeweilige Expose.
+Die freien Gärten unseres Vereins möchten wir hier gern vorstellen. Unsere Gärten sind alle mit Strom- und Wasseranschluss ausgestattet. Interessenten melden sich bitte beim Vereinsvorstand ([Kontaktmöglichkeiten]({% link _pages/kontakt.md %})).
 
-* [Expose zu Garten-01]({{site.baseurl}}{% link freie-gaerten/Test-Expose-01.pdf %})
+Hier sehen sie die Auflistung der freien Gärten. Für Details werfen sie gern einen Blick in das jeweilige Expose.
 
-* [Expose zu Garten-02]({{site.baseurl}}{% link freie-gaerten/Test-Expose-02.pdf %})
+Diese Gärten kann unserer Kolonie zur Zeit anbieten:
 
-* [Expose zu Garten-03]({{site.baseurl}}{% link freie-gaerten/Test-Expose-03.pdf %})
+* [Angebot zum Garten 106]({{site.baseurl}}{% link freie-gaerten/106_Angebot_18.pdf %}) ![Foto](freie-gaerten/Freier_Garten_106.jpg)
 
-* [Expose zu Garten-04]({{site.baseurl}}{% link freie-gaerten/Test-Expose-04.pdf %})
-
-* [Expose zu Garten-05]({{site.baseurl}}{% link freie-gaerten/Test-Expose-05.pdf %})
+*   *(wird stets aktuallisiert)*

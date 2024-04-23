@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Kontakt
+title: Kontaktmöglichkeiten
 permalink: /kontakt/
 ---
 
-## Nachricht an den Vorstand der Kleingärtnervereins Waldfrieden I e.V.
+Wenn Sie ein Anliegen oder einfach Fragen zum Kleingärtnerverein Waldfrieden I e.V. haben, wenden Sie sich gern direkt an den Vorstandsvorsitzenden ([siehe Impressum]{% link _pages/impressum.md %}) wenden oder an ein anderes Mitglied des Vereinsvorstands ([hier finden Sie die Auflistung der Mitglieder]{% link _pages/verein.md %}) kontaktieren.
+
+## Kontaktformular
+
+Sie können auch hier direkt eine Nachricht an den Vereinsvorstand verfassen:
 
 {% include contact-form.html %}
 

@@ -4,6 +4,8 @@ title: Über unseren Kleingartenverein
 permalink: /verein/
 ---
 
+Der Verein wurde 1964 gegründet und wir feiern in diesem Jahr 2024 das 60-jährige Bestehen des Vereins.
+
 ## Plan des Vereins
 
 Der Verein hat 112 Gärten. Das Vereinsgelände umfasst 52.493 m<sup>2</sup>, davon sind 46.067m<sup>2</sup> Kleingartengelände, 4.312m<sup>2</sup> Gemeinschaftsanlage und 2.114m<sup>2</sup> öffentliche Anlage.
@@ -34,13 +36,13 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 1\. Kassierer: Torsten Kamm, Garten-Nr.: 011
 
-1\. Schriftführer: Klaus Bergemann, Garten-Nr.: 072
+1\. Schriftführer: Hartmut Dallmann, Garten-Nr.: 109
 
 **Weitere Vorstandsmitglieder / Beisitzer:**
 
 2\. Kassiererin: Charlotte Vogel, Garten-Nr.: 018
 
-2\. Schriftführer: Hartmut Dallmann, Garten-Nr.: 109
+2\. Schriftführer: Frank Stransky, Garten-Nr.: 045
 
 Kolonieobmann: Rufin Kandziora, Garten-Nr.: 034
 
@@ -65,6 +67,8 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 034
 [--- dieser Bereich ist noch im Aufbau ---]
 
 ## Dokumente
+
+Wichtige Informationen und Dokumente zum Download: 
 
 * [Aufnahmeantrag Warteliste]({{site.baseurl}}/dokumente/2021_Aufnahme_Warteliste.doc)
 
