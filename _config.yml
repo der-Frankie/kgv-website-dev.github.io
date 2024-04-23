@@ -40,7 +40,7 @@ disqus:
 url: http://www.kgv-waldfrieden-hannover.de
 enforce_ssl: https://www.kgv-waldfrieden-hannover.de
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://github.com/der-Frankie/website-poc.github.io"
+url: "https://github.com/der-Frankie/kgv-website-dev.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
