@@ -104,6 +104,8 @@ table tr:nth-child(2n) {
 }
 
 table tr th {
+  color: $black;
+  font-size: 16px;
 	font-weight: bold;
 	border: 1px solid #cccccc;
 	margin: 0;
