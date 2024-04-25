@@ -88,22 +88,26 @@ p {
   margin: 15px 0;
 }
 
-input {
-  width: 50%;
+input[email], input[text] {
+  width: 70%;
+  font-size: 16px;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  margin: 5px;
 }
 
 textarea {
   width: 80%;
   height: 75px;
   resize: vertical;
-}
-
-textarea, input {
   font-size: 16px;
   padding: 8px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
+  margin: 5px;
 }
 
 table {
