@@ -48,7 +48,7 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 034
 
 ## Geschäftsführung der Strom- und Wassergemeinschaft (SWG)
 
-1. Geschäftsführer: Hartmut Diers , Garten-Nr.: 14
+1. Geschäftsführer: Marc Wojtaszyk, Garten-Nr.: (?)
 
 2. Geschäftsführer (Kassierer): Torsten Kamm, Garten-Nr.: 011
 
