@@ -85,7 +85,7 @@ permalink: /termine/
 
 Rückblicke auf Termine vergangener Jahre:
 
-- 2023
+- [2023]({% link _pages/termine-2023.md %})
 
 - 2022
 
