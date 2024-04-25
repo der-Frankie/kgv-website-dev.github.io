@@ -10,8 +10,8 @@ Hier sehen sie die Auflistung der freien Gärten. Für Details werfen sie gern e
 
 Diese Gärten kann unserer Kolonie zur Zeit anbieten:
 
-| Angebotener Garten (mit PDF-Link) | Foto des Gartens |
+| Angebotener Garten <br>(mit PDF-Link) | Foto des Gartens |
 |---|:-:|
-|  [Garten 106]({{site.baseurl}}{% link freie-gaerten/106_Angebot_18.pdf %}) | ![Foto]({{site.baseurl}}{% link freie-gaerten/Freier_Garten_106.jpg %}) |
+|  [Garten Nr. 106]({{site.baseurl}}{% link freie-gaerten/106_Angebot_18.pdf %}) | ![Foto]({{site.baseurl}}{% link freie-gaerten/Freier_Garten_106.jpg %}) |
 
  *Stand: April 2024 (wird stets aktuallisiert)*

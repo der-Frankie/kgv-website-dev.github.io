@@ -90,7 +90,6 @@ p {
 
 table {
 	padding: 0;
-  color: black;
 }
 
 table tr {
@@ -105,16 +104,21 @@ table tr:nth-child(2n) {
 }
 
 table tr th {
+  color: black;
+  font-size: 14px;
 	font-weight: bold;
+	text-align: center;
 	border: 1px solid #cccccc;
-	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
 
 table tr td {
+  color: black;
+  font-weight: normal;
+  font-size: 14px;
+	text-align: center;
 	border: 1px solid #cccccc;
-	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
