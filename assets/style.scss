@@ -88,6 +88,16 @@ p {
   margin: 15px 0;
 }
 
+form {
+  width: 80%;
+  height: 75px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
 table {
 	padding: 0;
 }
