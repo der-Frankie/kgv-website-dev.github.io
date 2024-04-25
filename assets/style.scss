@@ -104,10 +104,7 @@ table tr:nth-child(2n) {
 }
 
 table tr th {
-  color: black;
-  font-size: 14px;
 	font-weight: bold;
-	text-align: center;
 	border: 1px solid #cccccc;
 	margin: 0;
 	padding: 6px 13px;
@@ -116,8 +113,8 @@ table tr th {
 table tr td {
   color: black;
   font-weight: normal;
-  font-size: 14px;
-	text-align: center;
+  vertical-align: top;
+  height: 50px;
 	border: 1px solid #cccccc;
 	margin: 0;
 	padding: 6px 13px;
@@ -507,6 +504,12 @@ body:after {
 .page a {
   color: $white;
   text-decoration: underline;
+}
+
+.page table {
+  color: $black;
+  font-size: 16px;
+	text-align: center;
 }
 
 .author_title{
