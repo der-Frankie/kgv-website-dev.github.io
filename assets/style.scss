@@ -88,15 +88,22 @@ p {
   margin: 15px 0;
 }
 
+input {
+  width: 50%;
+}
 
-textarea, input {
+textarea {
   width: 80%;
   height: 75px;
+  resize: vertical;
+}
+
+textarea, input {
+  font-size: 16px;
   padding: 8px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
-  resize: vertical;
 }
 
 table {
