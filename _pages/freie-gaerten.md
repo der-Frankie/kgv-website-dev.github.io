@@ -14,4 +14,4 @@ Diese Gärten kann unserer Kolonie zur Zeit anbieten:
 |---|:-:|
 |  [Garten 106]({{site.baseurl}}{% link freie-gaerten/106_Angebot_18.pdf %}) | ![Foto]({{site.baseurl}}{% link freie-gaerten/Freier_Garten_106.jpg %}) |
 
- *(wird stets aktuallisiert)*
+ *Stand: April 2024 (wird stets aktuallisiert)*
