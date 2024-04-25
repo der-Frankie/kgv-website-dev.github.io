@@ -6,7 +6,9 @@ This project site is only intended as a development environment for a (german) "
 
 It started as a proof of concept on using some generators for static websites and possibilities to host them w/o costs.
 
-The result is automatically deployed to [https://der-frankie.github.io/website-poc.github.io/](https://der-frankie.github.io/website-poc.github.io/).
+The result is automatically deployed to <https://kgv-waldfrieden.github.io/website.github.io/>.
+
+The official website of the according "Kleingartenverein": <https://www.kgv-waldfrieden-hannover.de>
 
 ---
 
