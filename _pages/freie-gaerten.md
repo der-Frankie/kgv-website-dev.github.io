@@ -8,9 +8,7 @@ Die freien Gärten unseres Vereins möchten wir hier gern vorstellen. Unsere Gä
 
 Hier sehen sie die Auflistung der freien Gärten. Für Details werfen sie gern einen Blick in das jeweilige Expose.
 
-Diese Gärten kann unserer Kolonie zur Zeit anbieten:
-
-(mit Expose-Download als PDF-Datei per Klick)
+Diese Gärten kann unserer Kolonie zur Zeit anbieten (mit Expose-Download als PDF-Datei per Klick):
 
 | Angebotener Garten | Foto des Gartens |
 |---|:-:|
