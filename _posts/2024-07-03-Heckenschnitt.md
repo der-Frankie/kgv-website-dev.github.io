@@ -2,7 +2,7 @@
 layout: post
 title:  Aktuelles
 categories: [Hecken, Heckenschnitt]
-excerpt: Tipp: Heckenschneiden zur richtigen Zeit.
+excerpt: Tipp - Heckenschneiden zur richtigen Zeit.
 ---
 
 # Tipp: Hecke schneiden zur richtigen Zeit
