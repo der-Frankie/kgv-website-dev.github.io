@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  Aktuelles
-categories: [Hecken, Heckenschnitt]
-excerpt: Tipp - Heckenschneiden zur richtigen Zeit.
+title:  Hecke schneiden zur richtigen Zeit
+categories: [Aktuelles, Hecken, Heckenschnitt]
+excerpt: Wann ist der richtige Zeitpunkt, eine Hecke zu schneiden?
 ---
-
-# Tipp: Hecke schneiden zur richtigen Zeit
 
 Wann ist der richtige Zeitpunkt, eine Hecke zu schneiden?
 
