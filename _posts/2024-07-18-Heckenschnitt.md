@@ -11,7 +11,7 @@ excerpt: Bis zum 02.08.2024 Heckenschnitt und Wegereinigung durchführen!
 
 Wir fordern hiermit die Gartenpächter auf, diese Arbeiten bis zum
 
-**02.08.2024**  *(unser Sommerfest-Wochenende)*
+**02.08.2024**  *(unser [Sommerfest-Wochenende](https://www.kgv-waldfrieden-hannover.de/Sommerfest-2024/))*
 
 abzuschließen.
 
