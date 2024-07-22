@@ -6,6 +6,8 @@ This project site is only intended as a development environment for a (german) "
 
 It started as a proof of concept on using some generators for static websites and possibilities to host them w/o costs.
 
+As it fitted the requirements so far we use it now in production.
+
 The result is automatically deployed to <https://kgv-waldfrieden.github.io/website.github.io/>.
 
 The official website of the according "Kleingartenverein": <https://www.kgv-waldfrieden-hannover.de>
@@ -14,7 +16,7 @@ The official website of the according "Kleingartenverein": <https://www.kgv-wald
 
 ## License
 
-MIT (?)
+MIT
 
 ## Credits
 
