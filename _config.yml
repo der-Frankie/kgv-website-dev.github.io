@@ -37,10 +37,12 @@ disqus:
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
-url: http://www.kgv-waldfrieden-hannover.de
-enforce_ssl: https://www.kgv-waldfrieden-hannover.de
+url: https://der-frankie.github.io/kgv-website-dev.github.io
+###http://www.kgv-waldfrieden-hannover.de
+enforce_ssl: https://der-frankie.github.io/kgv-website-dev.github.io
+### https://www.kgv-waldfrieden-hannover.de
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://kgv-waldfrieden.github.io/website.github.io"
+url: "https://der-frankie.github.io/kgv-website-dev.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
