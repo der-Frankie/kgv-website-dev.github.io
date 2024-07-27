@@ -158,15 +158,16 @@ table tr td :last-child {
 	margin-bottom: 0;
 }
 
-.entry {
+.centered-entry {
   text-align: center;
 }
-/*.detailed .entry p:first-of-type:first-letter {
+
+.detailed .entry p:first-of-type:first-letter {
     float: left;
     margin: 0.13em 0.05em 0 -0.05em;
     font-size: 3.333em;
     line-height: 0.75em;
-}*/
+}
 
 #search-container {
   text-align: center;
