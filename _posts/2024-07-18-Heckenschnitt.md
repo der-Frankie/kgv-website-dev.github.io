@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Heckenschnitt und Wegereinigung vor dem Sommerfest!
+title: Heckenschnitt und (Stich-)Wegereinigung vor dem Sommerfest!
 categories: [Aktuelles, Hecken, Wege, Heckenschnitt]
-excerpt: Bis zum 02.08.2024 Heckenschnitt und Wegereinigung durchführen!
+excerpt: Bis zum 02.08.2024 Heckenschnitt und (Stich-)Wegereinigung durchführen!
 ---
 
 ## Alle Jahre wieder...
 
-... ist der Formschnitt der Hecken und die Pflege der Wege erforderlich!
+... ist der Formschnitt der Hecken und die Pflege der (Stich-)Wege erforderlich!
 
 Wir fordern hiermit die Gartenpächter auf, diese Arbeiten bis zum
 
