@@ -52,7 +52,7 @@ permalink: /termine/
 
 ## August 2024
 
-02\. - 04.08.2024: Sommerfest (60 Jahre KGV Waldfrieden), Vereinshaus
+02\. - 04.08.2024: ([Sommerfest (60 Jahre KGV Waldfrieden)]({{site.baseurl}}{% link _posts/2024-07-01-Sommerfest-2024.md %})), Vereinshaus
 
 10.08.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
@@ -68,13 +68,14 @@ permalink: /termine/
 
 06.10.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-12.10.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+12.10.2024 ab 9:00Uhr: ([letzte Gemeinschaftsarbeit in 2024]({{site.baseurl}}{% link _posts/2023-09-01-Letzter-Termin-Gemeinschaftsarbeit.md %})), Treffen am Vereinshaus
 
 ## November 2024
 
 03.11.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-09.11.2024: Herbstfest im Vereinshaus (Einzelheiten folgen noch)
+09.11.2024: ([Herbstfest im Vereinshaus]({{site.baseurl}}{% link _posts/2023-09-03-Ankuendigung-Herbstfest-2024.md %})) (Einzelheiten folgen noch)
+
 
 ## Dezember 2024
 
