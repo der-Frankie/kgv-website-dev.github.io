@@ -68,13 +68,13 @@ permalink: /termine/
 
 06.10.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-12.10.2024 ab 9:00Uhr: [letzte Gemeinschaftsarbeit in 2024]({{site.baseurl}}{% link _posts/2023-09-01-Letzter-Termin-Gemeinschaftsarbeit.md %}), Treffen am Vereinshaus
+12.10.2024 ab 9:00Uhr: [letzte Gemeinschaftsarbeit in 2024]({{site.baseurl}}{% link _posts/2024-08-29-Letzter-Termin-Gemeinschaftsarbeit.md %}), Treffen am Vereinshaus
 
 ## November 2024
 
 03.11.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-09.11.2024: [Herbstfest im Vereinshaus]({{site.baseurl}}{% link _posts/2023-09-03-Ankuendigung-Herbstfest-2024.md %}) (Einzelheiten folgen noch)
+09.11.2024: [Herbstfest im Vereinshaus]({{site.baseurl}}{% link _posts/2024-09-03-Ankuendigung-Herbstfest-2024.md %}) (Einzelheiten folgen noch)
 
 
 ## Dezember 2024
