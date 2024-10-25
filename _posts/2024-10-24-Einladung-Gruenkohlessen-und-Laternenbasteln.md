@@ -27,9 +27,9 @@ Am Samstag folgt dann das "Laternen Laufen".
 
 Preise:          |
 ---------------- | -------- 
-- für Mitglieder | € 10,-
-- für Gäste      | € 15,-
-- alle Getränke  | € 1,-
+/- für Mitglieder | € 10,-
+/- für Gäste      | € 15,-
+/- alle Getränke  | € 1,-
 
 Um Anmeldung wird gebeten im Vereinshaus am 06.10., 20.10. und 03.11. jeweils von 11:00 Uhr bis 12:00 Uhr.
 
