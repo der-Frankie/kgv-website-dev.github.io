@@ -11,8 +11,8 @@ Wir möchten euch herzlich zum
 
 einladen!
 
-![gruenkohl-links]({{site.baseurl}}{% link images/gruenkohl-links.png %}) 
-![gruenkohl-rechts]({{site.baseurl}}{% link images/gruenkohl-rechts.png %})
+![gruenkohl-links]({{site.baseurl}}{% link images/gruenkohl_links.png %}) 
+![gruenkohl-rechts]({{site.baseurl}}{% link images/gruenkohl_rechts.png %})
 
 Beginn ist um 17:30 Uhr.
 
@@ -35,7 +35,7 @@ Um Anmeldung wird gebeten im Vereinshaus am 06.10., 20.10. und 03.11. jeweils vo
 Wir freuen uns über viele Anmeldungen
 **Euer Festausschuss**
 
-![gruenkohl-links]({{site.baseurl}}{% link images/gruenkohl-links.png %}) 
-![gruenkohl-rechts]({{site.baseurl}}{% link images/gruenkohl-rechts.png %})
+![gruenkohl-links]({{site.baseurl}}{% link images/gruenkohl_links.png %}) 
+![gruenkohl-rechts]({{site.baseurl}}{% link images/gruenkohl_rechts.png %})
 
 ---
