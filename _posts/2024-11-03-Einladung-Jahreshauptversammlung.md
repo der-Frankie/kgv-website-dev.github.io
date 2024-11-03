@@ -23,7 +23,9 @@ Die Einladung wird auch an alle Vereinsmitglieder postalisch versendet.
 
 
 Mit freundlichem „GUT GRÜN“
+
 Kleingartenverein Waldfrieden I e.V.
+
 Der Vorstand
 
 ---
