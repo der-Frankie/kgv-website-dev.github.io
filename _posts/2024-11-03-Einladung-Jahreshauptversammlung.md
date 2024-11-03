@@ -7,13 +7,13 @@ excerpt: Wir möchten euch herzlich zur Jahreshauptversammlung am 26.04.2025 ein
 
 Wir möchten euch herzlich zur
 
-## Jahreshauptversammlung
+## Jahreshauptversammlung 2025
 
 einladen!
 
-Wann?        am Samstag, 26.04.2025 um 14:00 Uhr.
+Wann? - am Samstag, 26.04.2025 um 14:00 Uhr.
 
-Wo?          im/am Vereinshaus.
+Wo? - im/am Vereinshaus.
 
 In diesem Zeitrahmen findet auch die Gesellschafterversammlung der SWG statt.
 
