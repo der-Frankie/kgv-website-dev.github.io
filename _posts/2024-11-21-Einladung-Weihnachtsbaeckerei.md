@@ -13,17 +13,15 @@ einladen!
 
 Wir möchten mit euch und euren Kindern Kekse backen.
 
-Am 15.12.24
-
-Um 12:00 Uhr
+Am 15.12.24 um 12:00 Uhr
 
 in unserem Vereinshaus.
 
 Bitte mitbringen: Nudelholz und Ausstecher
 Streuselspenden sind herzlich willkommen.
 
-Um Anmeldung wird gebeten bei
-Jennifer und Marc Wojtaszyk
+Um Anmeldung wird gebeten
+bei Jennifer und Marc Wojtaszyk
 ( 015751033449 )
 
 ---
