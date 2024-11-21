@@ -26,4 +26,5 @@ bei Jennifer und Marc Wojtaszyk
 
 ---
 [Einladung als PDF zum Download]({{site.baseurl}}/dokumente/2024_Einladung-Weihnachtsbaeckerei.pdf)
+
 ---
