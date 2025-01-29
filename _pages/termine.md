@@ -1,90 +1,77 @@
 ---
 layout: page
-title: Die wichtigsten Termine des laufen den Kalenderjahres
+title: Die wichtigsten Termine des laufenden Kalenderjahres
 permalink: /termine/
 ---
 
-... haben wir hier für Euch zusammen gestellt. Einige Termine sind erst Planungstermine. Daher sind bei den Veranstaltungen Änderungen möglich. Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstaltungen sind auch Einladungen vorhanden. Bitte diese beachten, bzw. beim Festauschuß erfragen.
+... haben wir hier für Euch zusammen gestellt. Einige Termine sind erst Planungstermine. Daher sind bei den Veranstaltungen immer noch Änderungen möglich.
 
-## Januar 2024
+Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstaltungen sind auch Einladungen vorhanden. Bitte diese beachten bzw. beim Festauschuß erfragen.
+
+
+## Januar 2025
 
 *(keine Termine)*
 
-## Februar 2024
+## Februar 2025
 
-11.02.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+*(keine Termine)*
 
-## März 2024
+## März 2025
 
-10.03.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+*(keine Termine)*
 
-## April 2024
+## April 2025
 
-07.04.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+05.04.2025 ab 9:00 Uhr: Gemeinschaftsarbeit (mit Container), Treffen am Vereinshaus
 
-13.04.2024 ab 9:00 Uhr: Gemeinschaftsarbeit (mit Container), Treffen am Vereinshaus
+12.04.2025 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-21.04.2024 ab 14:00 Uhr: Gesellschafterversammlung der SWG 
+26.04.2025 ab 14:00 Uhr: Gesellschafterversammlung der SWG 
 
-21.04.2024 (im Anschluss): Jahreshauptversammlung im Vereinshaus
+26.04.2025 (im Anschluss): Jahreshauptversammlung im Vereinshaus
 
-## Mai 2024
+## Mai 2025
 
-05.05.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+17.05.2025 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-18.05.2024 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## Juni 2025
 
-## Juni 2024
+07.06.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-02.06.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+21.06.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-08.06.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## Juli 2025
 
-15.06.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+05.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-## Juli 2024
+26.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-06.07.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## August 2025
 
-14.07.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+09.08.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-27.07.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## September 2025
 
-## August 2024
+06.09.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-02\. - 04.08.2024: [Sommerfest (60 Jahre KGV Waldfrieden)]({{site.baseurl}}{% link _posts/2024-07-01-Sommerfest-2024.md %}), Vereinshaus
+## Oktober 2025
 
-10.08.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+18.10.2025 ab 9:00Uhr: letzte Gemeinschaftsarbeit in 2025, Treffen am Vereinshaus
 
-11.08.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+## November 2025
 
-## September 2024
+*(keine Termine)*
 
-07.09.2024 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## Dezember 2025
 
-08.09.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
-
-## Oktober 2024
-
-06.10.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
-
-12.10.2024 ab 9:00Uhr: [letzte Gemeinschaftsarbeit in 2024]({{site.baseurl}}{% link _posts/2024-08-29-Letzter-Termin-Gemeinschaftsarbeit.md %}), Treffen am Vereinshaus
-
-## November 2024
-
-03.11.2024 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
-
-09.11.2024: [Herbstfest im Vereinshaus]({{site.baseurl}}{% link _posts/2024-09-03-Ankuendigung-Herbstfest-2024.md %}) (Einzelheiten folgen noch)
-
-
-## Dezember 2024
-
-01.12.2024 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
-
+*(keine Termine)*
 
 ---
 
 Rückblicke auf Termine vergangener Jahre:
+
+- [2024]({{site.baseurl}}{% link archiv/termine-2024.md %})
 
 - [2023]({{site.baseurl}}{% link archiv/termine-2023.md %})
 
