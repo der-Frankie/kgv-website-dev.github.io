@@ -4,9 +4,18 @@ title: Freie Gärten
 permalink: /freie-gaerten/
 ---
 
-Die freien Gärten unseres Vereins möchten wir hier gern vorstellen. Unsere Gärten sind alle mit Strom- und Wasseranschluss ausgestattet. Interessenten melden sich bitte beim Vereinsvorstand ([Kontaktmöglichkeiten]({{site.baseurl}}{% link _pages/kontakt.md %})).
+Die freien Gärten unseres Vereins möchten wir natürlich gern wieder verpachten.
 
-**Aktuell haben wir leider keine freien Gärten zu vergeben.**
+Unsere Gärten sind alle mit Strom- und Wasseranschluss ausgestattet.
+
+Wenn Sie Interesse an einem eigenen Garten haben, füllen Sie bitte unseren Aufnahmeantrag aus, um sich auf die Warteliste setzen zu lassen.
+
+* [Aufnahmeantrag für die Warteliste (PDF-Format)]({{site.baseurl}}/dokumente/Aufnahme_Warteliste.pdf)
+* [Aufnahmeantrag für die Warteliste (Microsoft Word-Format)]({{site.baseurl}}/dokumente/Aufnahme_Warteliste.docx)
+
+Wir freuen uns auf Ihre Anfrage!
+
+**Zurzeit stehen wieder freie Gärten zur Verfügung.**
 
 
- *Stand: Juli 2024 (wird stets aktuallisiert)*
+ *Stand: März 2025 (wird stets aktuallisiert)*
