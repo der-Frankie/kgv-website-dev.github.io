@@ -70,6 +70,8 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 34
 
 Wichtige Informationen und Dokumente zum Download: 
 
-* [Aufnahmeantrag Warteliste]({{site.baseurl}}/dokumente/2021_Aufnahme_Warteliste.doc)
+* [Aufnahmeantrag Warteliste (Word)]({{site.baseurl}}/dokumente/Aufnahmeantrag_Warteliste.docx)
+
+* [Aufnahmeantrag Warteliste (PDF)]({{site.baseurl}}/dokumente/Aufnahmeantrag_Warteliste.pdf)
 
 * [Vereinssatzung]({{site.baseurl}}/dokumente/Satzung001.pdf)
