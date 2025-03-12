@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  KGV Waldfrieden I Ostereiersuche
 categories: [Aktuelles, Verein, Feiern]
