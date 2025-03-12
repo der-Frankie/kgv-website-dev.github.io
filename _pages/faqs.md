@@ -20,5 +20,9 @@ permalink: /faqs/
         Telefax: 05136 / 9068269
         Mobil: 0172 / 2538026
 
+* Grüngut-Annahmestelle
+
+    Die Informationen zu den Grüngut-Annahmestellen der aha in unserer Region lassen sich der [Website der aha zu Grüngut-Annahmestellen](https://www.aha-region.de/entsorgung-und-recycling/gruengut-annahmestellen) entnehmen.
+
+
 [...]
-[--- dieser Bereich ist noch im Aufbau ---]
