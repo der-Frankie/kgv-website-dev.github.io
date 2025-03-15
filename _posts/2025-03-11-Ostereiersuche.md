@@ -11,11 +11,11 @@ Wir möchten alle Kinder herzlich zur
 
 einladen!
 
+![Flyer zur Ostereiersuche]({{site.baseurl}}/dokumente/Flyer_Ostereiersuche_2025.jpg)
+
 Am 19.04.2025 um 11:00 Uhr
 
 treffen wir uns am Vereinsheim.
-
-[Flyer zur Ostereiersuche]({{site.baseurl}}/dokumente/Flyer_Ostereiersuche_2025.jpg)
 
 Meldet euch gern bei [Julia Wendhausen](mailto:Julia.Wendhausen@gmx.de), mit wie vielen Kindern ihr dabei seid.
 
