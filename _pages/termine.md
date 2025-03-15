@@ -27,6 +27,8 @@ Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstal
 
 12.04.2025 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
+19.04.2025 ab 11 Uhr: [Ostereiersuche vom KGV Waldfrieden]({{site.baseurl}}{% link _posts/2025-03-11-Ostereiersuche.md %})
+
 26.04.2025 ab 14:00 Uhr: Gesellschafterversammlung der SWG 
 
 26.04.2025 (im Anschluss): Jahreshauptversammlung im Vereinshaus
