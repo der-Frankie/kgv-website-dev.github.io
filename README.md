@@ -1,12 +1,14 @@
 # the README
 
-## Website - dev-stage
+## dev-stage
 
-This project site is only intended as a development environment for a (german) "Kleingartenverein"-website.
+This project site is intended only as a development environment for a (german) "Kleingartenverein"-website - and here just a fork of that.
 
-It started as a proof of concept on using some generators for static websites and possibilities to host them w/o costs.
+It started as a proof of concept on using static site generation for static websites and the possibilities to host them w/o costs.
 
-As it fitted the requirements so far we use it now in production.
+As it fitted the requirements so far we use **it** (a Markdown based bunch of text-files, the [Jekyll](https://jekyllrb.com)-based generation of the static website and [GitHub Pages](https://pages.github.com/) as a hosting plattform) now in production.
+
+## Website
 
 The result is automatically deployed to <https://kgv-waldfrieden.github.io/website.github.io/>.
 
