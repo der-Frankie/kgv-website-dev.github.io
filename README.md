@@ -2,7 +2,7 @@
 
 ## dev-stage
 
-This project site is intended only as a development environment for a (german) "Kleingartenverein"-website.
+This project site is intended only as a development environment for a (german) "Kleingartenverein"-website - and here just a fork of that.
 
 It started as a proof of concept on using static site generation for static websites and the possibilities to host them w/o costs.
 
