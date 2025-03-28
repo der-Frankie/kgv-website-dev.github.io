@@ -15,11 +15,13 @@ Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstal
 
 ## Februar 2025
 
-*(keine Termine)*
+09.02.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 ## März 2025
 
-*(keine Termine)*
+09.03.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+16.03.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 ## April 2025
 
@@ -35,9 +37,13 @@ Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstal
 
 ## Mai 2025
 
+04.05.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
 17.05.2025 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
 ## Juni 2025
+
+01.06.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 07.06.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
@@ -47,27 +53,35 @@ Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstal
 
 05.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
+13.07.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
 26.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
 ## August 2025
 
 09.08.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
+10.08.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
 ## September 2025
 
 06.09.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
+07.09.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
 ## Oktober 2025
+
+05.10.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 18.10.2025 ab 9:00Uhr: letzte Gemeinschaftsarbeit in 2025, Treffen am Vereinshaus
 
 ## November 2025
 
-*(keine Termine)*
+02.11.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 ## Dezember 2025
 
-*(keine Termine)*
+30.11.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 ---
 
