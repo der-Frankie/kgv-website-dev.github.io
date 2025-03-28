@@ -2,7 +2,7 @@
 layout: post
 title:  KGV Waldfrieden I Ostereiersuche
 categories: [Aktuelles, Verein, Feiern]
-excerpt: Alle Kinder sind herzlich zur Ostereiersuche eingeladen.
+excerpt: Alle Kinder sind herzlich zur Ostereiersuche am 19.04.2025 eingeladen.
 ---
 
 Wir möchten alle Kinder herzlich zur
