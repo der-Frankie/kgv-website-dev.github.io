@@ -68,10 +68,14 @@ Kolonieobmann: Rufin Kandziora, Garten-Nr.: 34
 
 ## Dokumente
 
-Wichtige Informationen und Dokumente zum Download: 
+Wichtige Informationen und Dokumente zum Download:
 
 * [Aufnahmeantrag Warteliste (Word)]({{site.baseurl}}/dokumente/Aufnahmeantrag_Warteliste.docx)
 
 * [Aufnahmeantrag Warteliste (PDF)]({{site.baseurl}}/dokumente/Aufnahmeantrag_Warteliste.pdf)
 
 * [Vereinssatzung]({{site.baseurl}}/dokumente/Satzung001.pdf)
+
+* [Satzung des Bezirksverbands]({{site.baseurl}}/dokumente/Bezirksverband-KG-Hannover_Satzung.pdf)
+
+* [Gartenordnung Hannover](({{site.baseurl}}/dokumente/Gartenordnung_Hannover_2024-08-15.pdf)
