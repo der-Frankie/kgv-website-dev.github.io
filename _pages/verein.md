@@ -79,3 +79,5 @@ Wichtige Informationen und Dokumente zum Download:
 * [Satzung des Bezirksverbands]({{site.baseurl}}/dokumente/Bezirksverband-KG-Hannover_Satzung.pdf)
 
 * [Gartenordnung Hannover]({{site.baseurl}}/dokumente/Gartenordnung_Hannover_2024-08-15.pdf)
+
+* [Baurichtlinie Hannover]({{site.baseurl}}/dokumente/Baurichtlinie_Hannover_15-08-2024.pdf)
