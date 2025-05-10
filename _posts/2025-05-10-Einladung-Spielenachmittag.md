@@ -13,9 +13,10 @@ am 18. Mai 2025
 
 am Vereinshaus.
 
-![Flyer zum Spielenachmittag]({{site.baseurl}}/images/Spielenachmittag_2025-05-18.jpg)
+[Flyer als PDF zum Download]({{site.baseurl}}/dokumente/2025-05-18-Kinder-Spielenachmittag.pdf)
 
 ---
-[Flyer als PDF zum Download]({{site.baseurl}}/dokumente/2025-05-18-Kinder-Spielenachmittag.pdf)
+
+![Flyer zum Spielenachmittag]({{site.baseurl}}/images/Spielenachmittag_2025-05-18.jpg)
 
 ---
