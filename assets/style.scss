@@ -546,8 +546,18 @@ body:after {
 	text-align: center;
 }
 
-.entry p, ul, ol {
-  padding-left: 50px;
+.entry {
+  p {
+    padding-left: 150px;
+  }
+  
+  ul, ol {
+    padding-left: 170px;
+    li {
+      padding-left: 0; // Entfernt zusätzlichen Abstand beim Listentext
+      margin-left: -20px; // Rückt die Aufzählungszeichen näher an den Text
+    }
+  } 
 }
 
 .author_title{
