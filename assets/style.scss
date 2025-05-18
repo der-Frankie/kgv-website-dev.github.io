@@ -547,17 +547,9 @@ body:after {
 }
 
 .entry {
-  p {
-    padding-left: 150px;
-  }
-  
   ul, ol {
-    padding-left: 170px;
-    li {
-      padding-left: 0; // Entfernt zusätzlichen Abstand beim Listentext
-      margin-left: -20px; // Rückt die Aufzählungszeichen näher an den Text
-    }
-  } 
+    padding-left: 100px;
+  }
 }
 
 .author_title{
