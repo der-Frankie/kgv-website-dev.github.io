@@ -89,7 +89,7 @@ p {
 }
 
 input {
-  width: 70%;
+  width: 90%;
   font-size: 16px;
   font-family: monospace;
   padding: 8px;
@@ -97,6 +97,10 @@ input {
   border: 2px solid #ccc;
   border-radius: 4px;
   margin: 5px;
+}
+
+input[type="email"] {
+  width: 85%;
 }
 
 textarea {
@@ -546,16 +550,11 @@ body:after {
 	text-align: center;
 }
 
-.entry {
-  p {
-    padding-left: 150px;
-  }
-  
+.entry {  
   ul, ol {
-    padding-left: 170px;
+    padding-left: 100px;
     li {
       padding-left: 0; // Entfernt zusätzlichen Abstand beim Listentext
-      margin-left: -20px; // Rückt die Aufzählungszeichen näher an den Text
     }
   } 
 }
