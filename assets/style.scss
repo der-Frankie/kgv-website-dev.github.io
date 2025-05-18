@@ -555,7 +555,7 @@ body:after {
 }
 
 .entry {            // @TODO: at-work
-  ul, ol {
+  p, ul, ol {
     padding-left: 100px;
     li {
       padding-left: 0; // Entfernt zusätzlichen Abstand beim Listentext
