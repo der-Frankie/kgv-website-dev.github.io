@@ -4,7 +4,7 @@ title: Kontaktmöglichkeiten
 permalink: /kontakt/
 ---
 
-Wenn Sie ein Anliegen oder einfach Fragen zum Kleingärtnerverein Waldfrieden I e.V. haben, wenden Sie sich gern direkt an den Vorstandsvorsitzenden ([siehe Impressum]({{site.baseurl}}{% link _pages/impressum.md %})) wenden oder an ein anderes Mitglied des Vereinsvorstands ([hier finden Sie die Auflistung der Mitglieder]({{site.baseurl}}{% link _pages/verein.md %}#der-vorstand-und-die-beisitzer)) kontaktieren.
+Wenn Sie ein Anliegen oder einfach Fragen zum Kleingärtnerverein Waldfrieden I e.V. haben, wenden Sie sich gern direkt an den Vorstandsvorsitzenden ([siehe Impressum]({{site.baseurl}}{% link _pages/impressum.md %})) oder ein anderes Mitglied des Vereinsvorstands ([hier finden Sie die Auflistung der Mitglieder]({{site.baseurl}}{% link _pages/verein.md %}#der-vorstand-und-die-beisitzer)) kontaktieren.
 
 ## Kontaktformular
 

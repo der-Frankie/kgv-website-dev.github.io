@@ -92,15 +92,3 @@ Rückblicke auf Termine vergangener Jahre:
 - [2024]({{site.baseurl}}{% link archiv/termine-2024.md %})
 
 - [2023]({{site.baseurl}}{% link archiv/termine-2023.md %})
-
-- 2022
-
-- 2021
-
-- 2020
-
-- 2019
-
-- 2018
-
-- 2017

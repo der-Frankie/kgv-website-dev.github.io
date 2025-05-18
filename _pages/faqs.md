@@ -31,8 +31,5 @@ permalink: /faqs/
 
     Einige weitere Informationen und Dokumente findet ihr auf der Website des [Bezirksverband Hannover der Kleingärtner e.V.](https://www.bezirksverband-hannover.de). Dort gibt es einen separaten [Download](https://www.bezirksverband-hannover.de/mitgliederbereich/downloads/)-Bereich für Mitglieder. Dazu benötigt ihr allerdings eure Lesernummer - die findet ihr ganz einfach auf der Gartenzeitung dort, wo auch eure Anschrift aufgedruckt ist.
 
-    
 
-Wenn ihr etwas vermisst, wendet euch auch gern an die Mitglieder des Vereinvorstands, die euch in aller Regel weiterhelfen können.
-
-[...]
+Wenn ihr etwas vermisst, wendet euch auch gern an die Mitglieder des Vereinsvorstands, die euch in aller Regel weiterhelfen können.
