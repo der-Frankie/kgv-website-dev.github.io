@@ -42,17 +42,17 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 2\. Kassiererin: Charlotte Vogel, Garten-Nr.: 18
 
-2\. Schriftführer: Frank Stransky, Garten-Nr.: 45
+2\. Schriftführer: Sabin van Aaken, Garten-Nr.: 41
 
 Kolonieobmann: Rufin Kandziora, Garten-Nr.: 34
 
 ## Geschäftsführung der Strom- und Wassergemeinschaft (SWG)
 
-1. Geschäftsführer: Marc Wojtaszyk, Garten-Nr.: 78
+1\. Geschäftsführer: Marc Wojtaszyk, Garten-Nr.: 78
 
-2. Geschäftsführer (Kassierer): Torsten Kamm, Garten-Nr.: 11
+2\. Geschäftsführer (Kassierer): Torsten Kamm, Garten-Nr.: 11
 
-3. Geschäftsführer: Ingo Ölkers, Garten-Nr.: 19
+3\. Geschäftsführer: Ingo Ölkers, Garten-Nr.: 19
 
 ## Geschichte des Vereins
 
