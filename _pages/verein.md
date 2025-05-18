@@ -30,29 +30,29 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 **Der vertretungsberechtigte Vorstand:**
 
-1\. Vorsitzender: Michael Gonschorowski, Garten-Nr.: 91
+* 1\. Vorsitzender: Michael Gonschorowski, Garten-Nr.: 91
 
-2\. Vorsitzender: Rüdiger Buchna, Garten-Nr.: 80
+* 2\. Vorsitzender: Rüdiger Buchna, Garten-Nr.: 80
 
-1\. Kassierer: Torsten Kamm, Garten-Nr.: 11
+* 1\. Kassierer: Torsten Kamm, Garten-Nr.: 11
 
-1\. Schriftführer: Hartmut Dallmann, Garten-Nr.: 109
+* 1\. Schriftführer: Hartmut Dallmann, Garten-Nr.: 109
 
 **Weitere Vorstandsmitglieder / Beisitzer:**
 
-2\. Kassiererin: Charlotte Vogel, Garten-Nr.: 18
+* 2\. Kassiererin: Charlotte Vogel, Garten-Nr.: 18
 
-2\. Schriftführer: Sabin van Aaken, Garten-Nr.: 41
+* 2\. Schriftführer: Sabin van Aaken, Garten-Nr.: 41
 
 Kolonieobmann: Rufin Kandziora, Garten-Nr.: 34
 
 ## Geschäftsführung der Strom- und Wassergemeinschaft (SWG)
 
-1\. Geschäftsführer: Marc Wojtaszyk, Garten-Nr.: 78
+* 1\. Geschäftsführer: Marc Wojtaszyk, Garten-Nr.: 78
 
-2\. Geschäftsführer (Kassierer): Torsten Kamm, Garten-Nr.: 11
+* 2\. Geschäftsführer (Kassierer): Torsten Kamm, Garten-Nr.: 11
 
-3\. Geschäftsführer: Ingo Ölkers, Garten-Nr.: 19
+* 3\. Geschäftsführer: Ingo Ölkers, Garten-Nr.: 19
 
 ## Geschichte des Vereins
 
