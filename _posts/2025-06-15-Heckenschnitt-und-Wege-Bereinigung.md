@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Stromausfall am Mittwoch dem 28.05.2025
+title:  Heckenschnitt und Bereinigung der Wege sind fällig
 categories: [Aktuelles, Verein, Heckenschnitt]
-excerpt: Heckenschnitt und Bereinigung der Wege sind fällig
+excerpt: Bereinigung der Wege bis 5. Juli und Heckenschnitt bis 8. August
 
 ---
 

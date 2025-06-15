@@ -10,9 +10,7 @@ excerpt: Die Kehrung der Schornsteine wird am 2. Juli 2025 von 8 - 10 Uhr erfolg
 
 ---
 
-## Schornsteinfeger
-
-## Kehrung der Schornsteine
+## Schornsteinfeger - Kehrung der Schornsteine
 
 Am **Mittwoch, 2. Juli 2025 von 8 - 10 Uhr** erfolgt die Kehrung der Schornsteine durch den Schornsteinfegermeister Kai Steffen.
 
