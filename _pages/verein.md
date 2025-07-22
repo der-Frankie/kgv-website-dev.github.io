@@ -42,7 +42,7 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 * 2\. Kassiererin: Charlotte Vogel, Garten-Nr.: 18
 
-* 2\. Schriftführer: Sabin van Aaken, Garten-Nr.: 41
+* 2\. Schriftführer: Sabine van Aaken, Garten-Nr.: 41
 
 Kolonieobmann: Rufin Kandziora, Garten-Nr.: 34
 
