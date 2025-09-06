@@ -20,7 +20,7 @@ Stadtfelddamm 10
 
 ## Verantwortlich für die Inhalte des Webauftritts
 
-Der geschäftsführende Vorstand des Vereins, vertreten durch den 1. Vorsitzenden M.Gonschorowski, ist für den Inhalt des Webauftritts verantwortlich. Im Auftrag des Vorstandes des Vereins wird diese Homepage von Mitgliedern des Vereinsvorstands gepflegt und aktualisiert.
+Der geschäftsführende Vorstand des Vereins, vertreten durch den 1. Vorsitzenden M. Gonschorowski, ist für den Inhalt des Webauftritts verantwortlich. Im Auftrag des Vorstandes des Vereins wird diese Homepage von Mitgliedern des Vereinsvorstands gepflegt und aktualisiert.
 
 ## Urheberrechtshinweise
 
