@@ -13,7 +13,7 @@ ab 17 Uhr
 
 im Vereinshaus:
 
-[Flyer als Bild]({{site.baseurl}}{% link images/2025-11-01_mexikanischer-Abend.png})
+[Flyer als Bild]({{site.baseurl}}{% link images/2025-11-01_mexikanischer-Abend.png %})
 
 ---
 
