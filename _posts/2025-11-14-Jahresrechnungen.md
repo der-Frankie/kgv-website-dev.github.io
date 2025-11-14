@@ -17,7 +17,7 @@ Die Bezeichnung *“KGV WALDFRIEDEN I E.V.”* oder *“KGV Waldfrieden Gonschor
 
 Aber zur Beruhigung: Das Geld kommt nach erfolgter Bestätigung trotzdem an!
 
-Für alle die noch nicht überwiesen haben, hier die Bezeichnung "**Kleingartner-Verein Waldfrieden I e.V.**" sollte die Warnmeldung vermeiden.
+Für alle die noch nicht überwiesen haben: die Bezeichnung "**Kleingartner-Verein Waldfrieden I e.V.**" sollte die Warnmeldung vermeiden.
 
 *(und ja, es heißt wirklich Kleingartner und nicht Kleingärtner - die Postbank machts möglich...)*
 
