@@ -5,9 +5,9 @@ categories: [Aktuelles, Verein, Feiern]
 excerpt: Wir wollen gemeinsam mit unseren Kindern Kekse backen und Glühwein trinken.
 ---
 
-## Liebe Kinder,
+## Liebe Kinder, wir laden euch herzlich
 
-## wir laden euch herzlich zum Keckse backen ein!
+## zum Keckse backen ein!
 
 Am 30. November 2025 um 13:00 Uhr im Vereinsheim.
 
@@ -17,11 +17,11 @@ Am 30. November 2025 um 13:00 Uhr im Vereinsheim.
 
 bei **Jenny: 01575 / 71 39 171**   oder
 
-bei **Julia unter 0176 / 32 13 11 33**
+bei **Julia: 0176 / 32 13 11 33**
 
 an.
 
-Außerdem begrüßen wir auch alle **Erwachsene** an diesem Nachmittag im Vereinsheim: Bei **Glühwein und Kuchen** können wir zusammen einen schönen Nachmittag verbringen!
+Außerdem begrüßen wir auch alle Erwachsene an diesem Nachmittag im Vereinsheim: Bei Glühwein und Kuchen können wir zusammen einen schönen Nachmittag verbringen!
 
 ---
 
