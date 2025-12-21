@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ruhezeiten für die Frühling-Sommer-Saison
+title:  Ruhezeiten für die Herbst-Winter-Saison
 categories: [Aktuelles, Verein]
 excerpt: Ab dem 01.10.2025 gelten wieder die Ruhezeiten für die Herbst-Winter-Saison.
 ---
