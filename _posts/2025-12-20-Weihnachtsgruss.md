@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Weihnachtsgruß 2025 / 2026
+title:  Weihnachtsgruß 2025
 categories: [Aktuelles, Verein]
 excerpt: Frohe Weihnachten und einen guten Rutsch in das Jahr 2026!
 ---
