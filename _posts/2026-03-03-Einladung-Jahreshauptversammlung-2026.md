@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  Einladung Jahreshauptversammlung 2025
+title:  Einladung Jahreshauptversammlung 2026
 categories: [Aktuelles, Verein]
-excerpt: Wir möchten euch herzlich zur Jahreshauptversammlung am 26.04.2025 einladen.
+excerpt: Wir möchten euch herzlich zur Jahreshauptversammlung am 03.05.2026 einladen.
 ---
 
 Wir möchten euch herzlich zur
 
-## Jahreshauptversammlung 2025
+## Jahreshauptversammlung 2026
 
 einladen!
 
-Wann? - am Samstag, 26.04.2025 um 14:00 Uhr.
+Wann? - am Sonntag, 03.05.2025 um 14:00 Uhr.
 
 Wo? - im/am Vereinshaus.
 
 In diesem Zeitrahmen findet auch die Gesellschafterversammlung der SWG statt.
 
-[Download des Einladungsschreibens]({{site.baseurl}}{% link dokumente/Einladung-Jahreshauptversammlung-2025.pdf %})
+[Download des Einladungsschreibens]({{site.baseurl}}{% link dokumente/2026-03-02_Einladung-JHV-2026.pdf %})
 
 Die Einladung wird auch an alle Vereinsmitglieder postalisch versendet.
 
