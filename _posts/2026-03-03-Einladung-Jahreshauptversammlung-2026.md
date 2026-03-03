@@ -11,7 +11,7 @@ Wir möchten euch herzlich zur
 
 einladen!
 
-Wann? - am Sonntag, 03.05.2025 um 14:00 Uhr.
+Wann? - am Sonntag, 03.05.2026 um 14:00 Uhr.
 
 Wo? - im/am Vereinshaus.
 
