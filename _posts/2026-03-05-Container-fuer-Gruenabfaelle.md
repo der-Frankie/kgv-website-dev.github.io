@@ -11,10 +11,9 @@ liebe Gartenfreunde,
 
 **Container für Grünabfälle**
 
-Am Samstag, 28. März 2026, steht auf dem Parkplatz am Stadtfelddamm wieder ein Container für Grünabfälle für alle Pächterinnen und Pächter zur Verfügung. Auch die Grüngutannahmestelle (Neue Landstraße) sollte dann wieder geöffnet haben.
+Am Samstag, 28. März 2026, steht auf dem Parkplatz am Stadtfelddamm wieder ein Container für Grünabfälle für alle Pächterinnen und Pächter zur Verfügung. An diesem Samstag ist übrigens auch Gemeinschaftsarbeit angesetzt.
 
-
-An diesem Samstag ist übrigens auch Gemeinschaftsarbeit angesetzt.
+Die Grüngutannahmestelle (Neue Landstraße) hat übrigens bereits wieder geöffnet.
 
 
 Mit herzlichem GUT GRÜN
