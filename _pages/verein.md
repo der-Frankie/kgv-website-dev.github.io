@@ -26,6 +26,8 @@ Hier finden Sie auch einen Übersichtsplan der hannoverschen Kleingartenvereine.
 
 [Link zur Satzung]({{site.baseurl}}/dokumente/Satzung001.pdf)
 
+[Link zur aktuellen Version der neuen Satzung]({{site.baseurl}}/dokumente/2026-02-28_KGV-Satzung_neu_Entwurf-aktueller-Stand.pdf)
+
 ## Der Vorstand und die Beisitzer
 
 **Der vertretungsberechtigte Vorstand:**
