@@ -21,6 +21,7 @@ In diesem Zeitrahmen findet auch die Gesellschafterversammlung der SWG statt.
 
 Die Einladung wird auch an alle Vereinsmitglieder postalisch versendet.
 
+Den aktuellen Entwurf der neuen KGV-Satzung finden ihr [hier zum Download]({{site.baseurl}}{% link dokumente/2026-02-28_KGV-Satzung_neu_Entwurf-aktueller-Stand.pdf %})
 
 Mit freundlichem „GUT GRÜN“
 
