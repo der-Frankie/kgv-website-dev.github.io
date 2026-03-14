@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  KGV Waldfrieden - Osterfest 2026
+title:  Spargelessen im Vereinshaus
 categories: [Aktuelles, Verein, Feiern]
 excerpt: Spargelessen am Samstag, den 09. Mai 2026 im Vereinshaus.
 ---
