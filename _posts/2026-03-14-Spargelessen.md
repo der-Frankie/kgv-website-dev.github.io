@@ -5,7 +5,7 @@ categories: [Aktuelles, Verein, Feiern]
 excerpt: Spargelessen am Samstag, den 09. Mai 2026 im Vereinshaus.
 ---
 
-## Spargelessen am Samstag, den 09. Mai 2026 im Vereinshaus.
+## Spargelessen am Samstag, den 09. Mai 2026
 
 ![Flyer zum Spargelessen]({{site.baseurl}}/images/2026-05-09_Spargelessen.png)
 
