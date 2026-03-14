@@ -9,85 +9,91 @@ permalink: /termine/
 Bitte die aktuellen Aushänge in den Schaukasten beachten. Für einige Veranstaltungen sind auch Einladungen vorhanden. Bitte diese beachten bzw. beim Festauschuß erfragen.
 
 
-## Januar 2025
+## Januar 2026
 
 *(keine Termine)*
 
-## Februar 2025
+## Februar 2026
 
-09.02.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+*(keine Termine)*
 
-## März 2025
+## März 2026
 
-09.03.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+_.2026 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-16.03.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+28.03.2026 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-## April 2025
+29.02.2026: Wasseranstellung
 
-05.04.2025 ab 9:00 Uhr: Gemeinschaftsarbeit (mit Container), Treffen am Vereinshaus
+## April 2026
 
-06.04.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+04.04.2026 ab 15:00Uhr: Osterfest im Kleingartenverein.
 
-12.04.2025 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+11.04.2026 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-19.04.2025 ab 11 Uhr: [Ostereiersuche vom KGV Waldfrieden]({{site.baseurl}}{% link _posts/2025-03-11-Ostereiersuche.md %})
+_.04.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-26.04.2025 ab 14:00 Uhr: Gesellschafterversammlung der SWG 
+25.04.2026 ab 9:00 Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-26.04.2025 (im Anschluss): Jahreshauptversammlung im Vereinshaus
+## Mai 2026
 
-## Mai 2025
+03.05.2026 ab 13:00 Uhr: Jahreshauptversammlung des KGV Waldfrieden I und Gesellschafterversammlung der SWG
 
-04.05.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+09.05.2026 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-17.05.2025 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+09.05.2026 ab 13:00Uhr: Spargelessen im Vereinshaus
 
-## Juni 2025
+_.05.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-01.06.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+30.05.2026 ab 9:Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-07.06.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## Juni 2026
 
-21.06.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+13.06.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-## Juli 2025
+_.06.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-05.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+27.06.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-13.07.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+## Juli 2026
 
-26.07.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+_.07.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-## August 2025
+18.07.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-09.08.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## August 2026
 
-10.08.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+_.08.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-## September 2025
+15.08.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-06.09.2025 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
+## September 2026
 
-07.09.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+12.09.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-## Oktober 2025
+_.09.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-05.10.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+26.09.2026 ab 9:00Uhr: Gemeinschaftsarbeit, Treffen am Vereinshaus
 
-18.10.2025 ab 9:00Uhr: letzte Gemeinschaftsarbeit in 2025, Treffen am Vereinshaus
+## Oktober 2026
 
-## November 2025
+_.10.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
-02.11.2025 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+24.10.2026 ab 9:00Uhr: letzte Gemeinschaftsarbeit in 2026, Treffen am Vereinshaus
 
-## Dezember 2025
+## November 2026
 
-30.11.2025 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
+_.11.2026 ab 11:00Uhr: Sprechstunde des Vorstandes im Vereinshaus
+
+## Dezember 2026
+
+_.12.2026 ab 11:00 Uhr: Sprechstunde des Vorstandes im Vereinshaus
 
 ---
 
 Rückblicke auf Termine vergangener Jahre:
+
+- [2025]({{site.baseurl}}{% link archiv/termine-2025.md %})
 
 - [2024]({{site.baseurl}}{% link archiv/termine-2024.md %})
 

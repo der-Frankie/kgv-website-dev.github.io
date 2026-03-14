@@ -83,19 +83,3 @@ Hier findet ihr im Überblick die Veranstaltungen unseres Vereins im Jahr 2024.
 
 
 ---
-
-Rückblicke auf Termine vergangener Jahre:
-
-- [2023]({{site.baseurl}}{% link archiv/termine-2023.md %})
-
-- 2022
-
-- 2021
-
-- 2020
-
-- 2019
-
-- 2018
-
-- 2017
