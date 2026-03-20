@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termine & Aktivitäten 20255
+title: Termine & Aktivitäten 2025
 permalink: /termine-2025/
 ---
 
