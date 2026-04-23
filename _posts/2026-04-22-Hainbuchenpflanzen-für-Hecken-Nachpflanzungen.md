@@ -11,13 +11,20 @@ excerpt: Junge Hainbuchenpflanzen für ggfs. erforderliche Nachpflanzungen am Sa
 Liebe Gartenfreundinnen,
 liebe Gartenfreunde,
 
-wir haben junge Hainbuchenpflanzen für ggfs. erforderliche Nachpflanzungen in den Hecken der Gärten gekauft.
+wir haben junge Hainbuchenpflanzen
 
-Bei Bedarf kann die notwendige Anzahl an Pflanzen am Vereinshaus abgeholt werden.
+für ggfs. erforderliche Nachpflanzungen
+
+in den Hecken der Gärten gekauft.
+
+Bei Bedarf kann die notwendige Anzahl
+
+an Pflanzen am Vereinshaus abgeholt werden.
 
 Termine:
-    • Samstag, 25.04.2026, 	09:00 – 13:00 Uhr
-    • Sonntag, 26.04.2026, 	11:00 – 13:00 Uhr
+
+- Samstag, 25.04.2026, 	09:00 – 13:00 Uhr
+- Sonntag, 26.04.2026, 	11:00 – 13:00 Uhr
 
 
 Mit herzlichem GUT GRÜN
