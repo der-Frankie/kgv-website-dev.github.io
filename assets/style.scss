@@ -219,11 +219,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $darkGray;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGray;
+    font-style: bolt;
   }
 }
 
