@@ -221,8 +221,6 @@ span[data-pullquote]:before {
 a {
   color: $white;
   text-decoration: none;
-  border: 2px solid rgb(255, 251, 226);
-  border-radius: 3px;
 	cursor: pointer;
   &:hover, &:active {
     font-style: bolt;
@@ -473,6 +471,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    color: $white;
     float: right;
     padding-right: 120px;
   }
