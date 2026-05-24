@@ -519,6 +519,9 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  a {
+    color: $black;
+  }
 }
 
 body:after {
@@ -745,11 +748,11 @@ Modules - reusable parts of our design
     border-bottom: 1px dotted #000;
 }
 
-// SVG Icons - Ensure proper display
 .svg-icon {
   display: inline-block;
   background-size: contain;
   background-repeat: no-repeat;
+  filter: invert(0.8) brightness(0.2);  // ← Makes icons dark/visible on light background
 }
 
 // PDF Links - Button Style
