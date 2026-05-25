@@ -29,7 +29,7 @@ permalink: /faqs/
 
     In einem Verein wie dem unseren gibt es natürlich auch allerhand wichtige Dokumente. Diese findet ihr z.T. auch auf unserer Website - und zwar klickt ihr oben in der Menü-Leiste auf __Verein__ und scrollt dann auf der Seite ganz nach unten. Dort findet ihr die von uns zum Download angebotenen Dokumente.
 
-    Einige weitere Informationen und Dokumente findet ihr auf der Website des [Bezirksverband Hannover der Kleingärtner e.V.](https://www.bezirksverband-hannover.de). Dort gibt es einen separaten [Download](https://www.bezirksverband-hannover.de/mitgliederbereich/downloads/)-Bereich für Mitglieder. Dazu benötigt ihr allerdings eure Lesernummer - die findet ihr ganz einfach auf der Gartenzeitung dort, wo auch eure Anschrift aufgedruckt ist.
+    Einige weitere Informationen und Dokumente findet ihr auf der Website des [Bezirksverband Hannover der Kleingärtner e.V.](https://www.bezirksverband-hannover.de). Dort gibt es einen separaten Download-Bereich für Mitglieder. Dazu benötigt ihr allerdings eure Lesernummer - die findet ihr ganz einfach auf der Gartenzeitung dort, wo auch eure Anschrift aufgedruckt ist.
 
 
 Wenn ihr etwas vermisst, wendet euch auch gern an die Mitglieder des Vereinsvorstands, die euch in aller Regel weiterhelfen können.
