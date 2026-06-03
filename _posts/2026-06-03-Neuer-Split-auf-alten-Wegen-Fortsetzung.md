@@ -22,7 +22,10 @@ beauftragen.
 ## Save the date
 
 Es ist beabsichtigt, die Arbeiten an den Wochenenden
-**12. September 2026** und **26. September 2026**
+
+- **12. September 2026** und 
+- **26. September 2026**
+
 im Rahmen der Gemeinschaftsarbeit an den restlichen
 Wegen durchzuführen.
 
