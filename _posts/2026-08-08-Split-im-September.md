@@ -16,9 +16,7 @@ Diese Lieferung ist im September geplant ([hier der Aushang im PDF-Format]({{sit
 
 | Folgender Ablauf ist vorgesehen: |
 | -------- |
-| Alle Wege zwischen Eichenweg und Lärchenweg und
-die dazugehörigen Stichwege müssen bis zum
-gesäubert sein. |
+| Alle Wege zwischen Eichenweg und Lärchenweg und die dazugehörigen Stichwege müssen bis zum gesäubert sein. |
 | Der Split wird am 10.09.2026 zum Parkplatz geliefert. |
 | Am 11.09.2026 wird der Split mit einem Radlader in den Wegen grob verteilt. |
 | Am 11.09.2026 (nachmittags) und am 12.09.2026 (vormittags) muss der Split von den Pächterinnen und Pächtern vor den jeweiligen Gärten verteilt werden. |
