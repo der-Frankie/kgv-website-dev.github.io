@@ -4,15 +4,15 @@ title: Freie Gärten
 permalink: /freie-gaerten/
 ---
 
+# Zurzeit stehen wieder freie Gärten zur Verfügung.
+
+ *Stand: September 2026*
+
+![Flyer freie Gärten]({{site.baseurl}}/images/2026-09-02_Aushang-freie-Gaerten.jpg)
+
 Die freien Gärten unseres Vereins möchten wir natürlich gern wieder verpachten.
 
 Unsere Gärten sind alle mit Strom- und Wasseranschluss ausgestattet.
-
-
-# Zurzeit stehen wieder freie Gärten zur Verfügung.
-
- *Stand: März 2025*
-
 
 Wenn Sie Interesse an einem eigenen Garten haben, füllen Sie bitte unseren Aufnahmeantrag aus, um sich auf die Warteliste setzen zu lassen.
 
